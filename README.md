@@ -4,7 +4,7 @@
 | Title  | Team Name | Team Members |
 | ------------- | ------------- |------------|
 | Rock Paper Scissors | Rockers | [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07)
-| Video to Slide | ..  | 
+| Video to Slide | Napster  | 
 | Image Cartoonizer | ..  |  
 | Story and Question Answering |  ..  | 
 | Tic Tac Toe with AI | ..  | 
