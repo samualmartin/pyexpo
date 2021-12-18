@@ -13,4 +13,5 @@
 | Sign Language Recognition | ..  | 
 | People Counter | ..  | 
 | Social Distance Monitoring | ..  | 
-| Emojinator | ..  | 
+| Emojinator | ..  |  |
+| Temp Project | Tars | [Nivu](nivu.me) |
