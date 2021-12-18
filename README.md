@@ -3,7 +3,7 @@
 
 | Title  | Team Name | Team Members |
 | ------------- | ------------- |------------|
-| Rock Paper Scissor | Rockers | [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07)
+| Rock Paper Scissors | Rockers | [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07)
 | Video to Slide | ..  | 
 | Image Cartoonizer | ..  |  
 | Story and Question Answering |  ..  | 
