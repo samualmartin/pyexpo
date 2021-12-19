@@ -5,7 +5,7 @@
 | ------------- | ------------- |------------|
 | Rock Paper Scissors | Rockers | [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07) [Nivu](https://github.com/navneetnivu07)
 | Video to Slide | Napster  | 
-| Image Cartoonizer | ..  |  
+| Image Cartoonizer | Bastions |  
 | Story and Question Answering |  ..  | 
 | Tic Tac Toe with AI | ..  | 
 | Ask Question on Table | ..  | 
