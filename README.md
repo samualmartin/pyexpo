@@ -13,5 +13,5 @@
 | Sign Language Recognition | ..  | 
 | People Counter | ..  | 
 | Social Distance Monitoring | ..  | 
-| Emojinator | ..  |  |
+| Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git)|
 | Temp Project | Tars | [Nivu](nivu.me) |
