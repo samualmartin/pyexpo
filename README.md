@@ -7,7 +7,7 @@
 | Video to Slide | Napster  | [Paul Raj](https://github.com/paulraj916) [Ciril Japeth](https://github.com/CirilJapeth) |
 | Image Cartoonizer | Bastions |  [Surya](https://github.com/suryacreatx) [Pranav](https://github.com/PranavRajeswari) |
 | Story and Question Answering |  ..  | 
-| Tic Tac Toe with AI | ..  | [Aakash](https://github.com/aakashbd) |
+| Tic Tac Toe with AI | ShakeDown  | [Aakash](https://github.com/aakashbd) |
 | Ask Question on Table | ..  | 
 | Fruit Classifier | ..  | 
 | Sign Language Recognition | ..  | 
