@@ -12,6 +12,6 @@
 | Fruit Classifier | ..  | 
 | Sign Language Recognition | ..  | 
 | People Counter | ..  | 
-| Social Distance Monitoring | ..  | 
+| Social Distance Monitoring | C-3PO | [Bala](https://github.com/gsbmk007)    [Guru](https://github.com/Guruprasath-556) 
 | Emojinator | ..  |  |
 | Temp Project | Tars | [Nivu](nivu.me) |
