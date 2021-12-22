@@ -10,7 +10,7 @@
 | Tic Tac Toe with AI | ShakeDown  | [Aakash](https://github.com/aakashbd) |
 | Ask Question on Table | ..  | 
 | Fruit Classifier | ..  | 
-| Sign Language Recognition | ..  | 
+| Sign Language Recognition | ShineStars  | [Dharshini](https://github.com/DharshiniUdayakumaran) - [kalaiselvi](https://github.com/KalaiselviSelvam21) - [Ramesh](https://github.com/Ramesh-1516) |
 | People Counter | ..  | 
 | Social Distance Monitoring | ..  | 
 | Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git)|
