@@ -11,7 +11,7 @@
 | Ask Question on Table | ..  | 
 | Fruit Classifier | ..  | 
 | Sign Language Recognition | ..  | 
-| People Counter | ..  | 
+| People Counter | F.R.I.D.A.Y  | [Siranjevi](https://github.com/21cb54siranjevi) [Shalupriya](https://github.com/ShaluPriya-R) [Rishikesh](https://github.com/Rishikesh23082003)
 | Social Distance Monitoring | ..  | 
 | Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git)|
 | Temp Project | Tars | [Nivu](nivu.me) |
