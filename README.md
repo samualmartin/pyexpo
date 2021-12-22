@@ -12,7 +12,7 @@
 | Fruit Classifier | ..  | 
 | Sign Language Recognition | ..  | 
 | People Counter | F.R.I.D.A.Y  | [Siranjevi](https://github.com/21cb54siranjevi) - [Shalupriya](https://github.com/ShaluPriya-R) - [Rishikesh](https://github.com/Rishikesh23082003)
-| Social Distance Monitoring | C-3PO | [Bala](https://github.com/gsbmk007)    [Guru](https://github.com/Guruprasath-556) 
+| Social Distance Monitoring | C-3PO | [Bala](https://github.com/gsbmk007) - [Guru](https://github.com/Guruprasath-556) |
 | Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git) |
 | Copilot | Tars | [Nivu](nivu.me) |
 
