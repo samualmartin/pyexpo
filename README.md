@@ -16,3 +16,6 @@
 | Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git) |
 | Copilot | Tars | [Nivu](nivu.me) |
 
+
+Harshavardhan - Video2Slie, People counter
+Dhanushlingam - Emojinator, Sign language
