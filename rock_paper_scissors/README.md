@@ -2,6 +2,7 @@
 
 ```
 conda create -n rps Python=3.8
+conda activate rps
 pip install -r requirements.txt
 
 # To train the model
