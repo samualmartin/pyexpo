@@ -4,7 +4,7 @@
 | Title  | Team Name | Team Members |
 | ------------- | ------------- |------------|
 | Rock Paper Scissors | Rockers | |
-| Video to Slide | Napster  | [Paul Raj](https://github.com/paulraj916) [Ciril Japeth](https://github.com/CirilJapeth) |
+| Video to Slide | Napster  | [Paul Raj](https://github.com/paulraj916) [Ciril Japeth](https://github.com/CirilJapeth) [Jalathan](https://github.com/jalathan) |
 | Image Cartoonizer | Bastions |  [Surya](https://github.com/suryacreatx) [Pranav](https://github.com/PranavRajeswari) | [Jaayaraajadhanus](https://github.com/JAAYARAAJADHANUS/JAAYAARAAJADHANUS.git)
 | Story and Question Answering |  ..  | 
 | Tic Tac Toe with AI | ShakeDown  | [Aakash](https://github.com/aakashbd) |
