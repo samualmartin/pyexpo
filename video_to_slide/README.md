@@ -5,3 +5,4 @@
 3. Object detection (Images + Text)
 4. Test --> OCR, Text and their coordinates
 5. Create a PPT
+6. https://www.tutorialspoint.com/how-to-create-powerpoint-files-using-python
