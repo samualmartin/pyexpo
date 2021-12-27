@@ -13,7 +13,7 @@
 | Sign Language Recognition | ShineStars  | [Ramesh](https://github.com/Ramesh-1516) - [Dharshini](https://github.com/DharshiniUdayakumaran) - [kalaiselvi](https://github.com/KalaiselviSelvam21)|
 | People Counter | F.R.I.D.A.Y  | [Siranjevi](https://github.com/21cb54siranjevi) - [Shalupriya](https://github.com/ShaluPriya-R) - [Rishikesh](https://github.com/Rishikesh23082003)
 | Social Distance Monitoring | C-3PO | [Bala](https://github.com/gsbmk007) - [Guru](https://github.com/Guruprasath-556) |
-| Emojinator | ..  | [senthuran](https://github.com/SENTHURANLK/blockly.git) - [Samual](https://github.com/samualmartin) |
+| Emojinator | ..  | [Senthuran](https://github.com/SENTHURANLK/blockly.git) - [Samual](https://github.com/samualmartin) |
 | Copilot | Tars | [Nivu](nivu.me) |
 
 Harshavardhan - Video2Slie, People counter
